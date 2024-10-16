@@ -7,6 +7,7 @@ import requests
 from bs4 import BeautifulSoup
 from pymongo import MongoClient
 
+# testing
 dotenv_path = join(dirname(__file__), '.env')
 load_dotenv(dotenv_path)
 
